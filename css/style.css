@@ -1,0 +1,239 @@
+/* stylesheet for the website */
+
+/* general styling */
+body {
+    background-color: #f2f2f2;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 300;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: 300;
+    text-align: center;
+}
+
+h5 {
+    font-size: 0.8em;
+    font-weight: 300;
+    text-align: center;
+}
+
+h6 {
+    font-size: 0.6em;
+    font-weight: 300;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    font-weight: 300;
+    text-align: center;
+}
+
+/* header styling */
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e6e6e6;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+header nav {
+    display: inline-block;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li a {
+    color: #000000;
+    display: block;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 60px;
+    margin: 0;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a.active {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a.active:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a.active:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a.active:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav ul li a.active:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* main styling */
+
+main {
+    margin-top: 60px;
+    padding: 0;
+}
+
+/* footer styling */
+
+footer {
+    background-color: #ffffff;
+    border-top: 1px solid #e6e6e6;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+footer nav {
+    display: inline-block;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+footer nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer nav ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+footer nav ul li a {
+    color: #000000;
+    display: block;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 60px;
+    margin: 0;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+footer nav ul li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a.active {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a.active:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a.active:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a.active:focus {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer nav ul li a.active:visited {
+    color: #000000;
+    text-decoration: none;
+}
